@@ -1,0 +1,1 @@
+﻿{"testcase_No":"Login_N_LoginAction_UnexpectedBehaviour00","expected_result":"成功登陆后，按下后退，不会返回登陆页面","step_00":"跳转至待测目标URL ：%step_00.step_data%","checkpoint_00":"验证当前title：%step_00.checkpoint_data%","step_01":"输入正确的用户名/密码：%step_01.step_data%\n点击确定","checkpoint_01":"验证当前title：%step_01.checkpoint_data%","step_02":"执行“后退”动作","checkpoint_02":"验证当前title：%step_02.checkpoint_data%"}
